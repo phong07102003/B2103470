@@ -14,9 +14,7 @@
     * Lê Gia Lâm
     * Lâm Tấn Lộc
 
-## Công nghệ sử dụng
-
-Trang web của chúng tôi được phát triển bằng các công nghệ sau:
+## Trang web của chúng tôi được phát triển bằng các công nghệ sau:
 
 * HTML
 * CSS
