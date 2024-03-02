@@ -1,25 +1,18 @@
-<h1 align="center">Chào mừng đến với trang Readme của nhóm chúng tôi!</h1>
-<h2 align="center">Chủ Đề Bán Cây Cảnh</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Interior%20Design-brightgreen" alt="Project Interior Design">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-blue" alt="Made with Markdown">
-  <img src="https://img.shields.io/badge/Made%20with-HTML5-red" alt="Made with HTML5">
-</p>
+<h2 align="center">QUẢN LÝ ĐỀ XUẤT ĐĂNG KÝ CÁC ĐỀ TÀI NCKH SINH VIÊN </h2>
 
 ## Giới thiệu về dự án
 
-Dự án của chúng tôi là một trang web về cây cảnh, được thiết kế để giúp người dùng tìm kiếm và tham khảo các ý tưởng và sản phẩm liên quan đến cây cảnh. Trang web của chúng tôi cung cấp thông tin về các cây cảnh phổ biến, cũng như cung cấp những lời khuyên về cách trang trí để tạo ra một không gian sống đẹp và thoải mái.
+*Đề tài xây dựng một hệ thống quản lý đề xuất đăng ký các đề tài NCKH sinh viên.
+*Hệ thống cho phép sinh viên có thể đăng ký đề tài NCKH trực tiếp trên website hoặc ứng dụng, tra cứu thông tin về các đề tài khoa học cũng như các tài liệu liên quan. Về phòng Quản lý Khoa học của trường có thể kiểm soát được những đề tài mà sinh viên đã đăng ký: duyệt đề tài, hủy đề tài,…
+*Mục tiêu chính của đề tài là xây dựng được một hệ thống giúp ích cho sinh viên Đại học Cần Thơ trong công tác phát triển NCKH.
+
 
 ## Thành viên nhóm
 
-    * Nguyễn Hoàng Huy
-    * Nguyễn Thành An 
-    * Nguyễn Thiên Ngôn
-    * Thái Toàn
+    * Đào Trần Quốc Phong
+    * Đỗ Nguyễn Minh Sang
+    * Lê Gia Lâm
+    * Lâm Tấn Lộc
 
 ## Công nghệ sử dụng
 
@@ -29,10 +22,3 @@ Trang web của chúng tôi được phát triển bằng các công nghệ sau:
 * CSS
 * JavaScript
 * PHP
-
-## Liên hệ
-
-Nếu bạn có bất kỳ câu hỏi hoặc ý kiến đóng góp nào về dự án của chúng tôi, xin vui lòng liên hệ với chúng tôi qua email hoặc số điện thoại sau:
-
-* Email: example@gmail.com
-* Số điện thoại: 0123456789
